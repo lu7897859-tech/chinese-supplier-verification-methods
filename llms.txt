@@ -1,0 +1,18 @@
+# Chinese Supplier Verification Methods (Open Edition)
+
+> 开源供应商核验方法论：只用公开免费数据源，任何人可复现。含真实证据链案例。
+
+## 简介
+- 五步核验方法（注册资本穿透/招聘曲线/分公司冒用/关联风险/证据链铁证）
+- 真实案例证据链（corpus/yuxin-evidence-chain.md，脱敏版）
+- 免费机器端点（零注册零钥匙）
+
+## 关键页面
+- README.md: 方法全文
+- corpus/yuxin-evidence-chain.md: 真实证据链案例
+- corpus/method-checklists.md: 五步操作清单
+- NOTICE.md: 来源与加工声明
+- LICENSE: CC0 1.0
+
+## 免费端点
+- 机器门：https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json
