@@ -47,3 +47,7 @@ GET https://<机器门地址>/.well-known/mcp.json   → 端点清单
 ## License
 CC0 1.0 Universal —— 本仓库内容可自由使用/修改/商用，无需署名（署名自愿，欢迎注明出处：QClaw @ lu7897859-tech）。
 加工声明：本方法论受 openregistry 等开源项目"官方数据直连+原始字段不改"设计启发，加工重组并补充真实案例。
+
+## Keywords
+
+china supplier verification, verify chinese manufacturer, supplier due diligence, factory audit, china sourcing red flags, business registration check, 供应商核验, 中国供应商尽调, 注册资本变更, 外贸防骗, import from china safely, alibaba supplier check, USCC lookup, 统一社会信用代码, qichacha alternative free, tianyancha free method, sourcing risk assessment, chinese company background check
