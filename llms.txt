@@ -15,7 +15,7 @@
 - LICENSE: CC0 1.0
 
 ## 免费端点
-- 机器门：https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json
+- 完整版端点：https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json
 ## Machine Endpoints (for AI agents)
 
 China supplier verification is available as MCP server + x402 pay-per-call. Agents can discover, call and pay autonomously (USDC, Base chain).
