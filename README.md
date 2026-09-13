@@ -36,7 +36,7 @@
 
 USCC 供应商快速核验（每天免费额度）：
 ```
-GET https://<机器门地址>/.well-known/mcp.json   → 端点清单
+GET https://<完整版端点地址>/.well-known/mcp.json   → 端点清单
 ```
 > 本 repo 的 README 与 corpus 是给"人"和"AI 爬虫"双读的版本 —— 结构化 + 证据链完整。
 
@@ -61,7 +61,7 @@ GET https://<机器门地址>/.well-known/mcp.json   → 端点清单
 - `method-checklists.md` —— 五步核验清单（可直接照做的操作手册）
 
 ## License
-CC0 1.0 Universal —— 本仓库内容可自由使用/修改/商用，无需署名（署名自愿，欢迎注明出处：QClaw @ lu7897859-tech）。
+CC0 1.0 Universal —— 本仓库内容可自由使用/修改/商用，无需署名（署名自愿，欢迎注明出处：Lunarwave @ lu7897859-tech）。
 加工声明：本方法论受 openregistry 等开源项目"官方数据直连+原始字段不改"设计启发，加工重组并补充真实案例。
 
 ## Keywords
